@@ -1,0 +1,94 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+#menu_4e74e4a7 a { text-decoration: none; }
+#menu_4e74e4a7_pane { background-color: #FFFFFF; border: 1px solid #FFFFFF; padding-top: 10px; padding-bottom: 10px; box-shadow: 2px 2px 6px 0px rgba(8, 8, 8, 0.784314); }
+#menu_4e74e4a7_hr { background-color: #FFFFFF; height: 1px; border: none; }
+#menu_4e74e4a7_entry { padding-left: 10px; padding-right: 10px; padding-top: 3px; padding-bottom: 3px; }
+#menu_4e74e4a7_entry:hover { background-color: #323232; color: #FFFFFF !important; }
+#menu_4e74e4a7_entry:hover span { color:#FFFFFF !important; }
+		.menu_4e74e4a7_mainMenuEntry { text-align: center; }
+		.menu_4e74e4a7_mainMenuEntry:hover {	background-color:#282828; }
+		.menu_4e74e4a7_mainMenuEntry:hover span {	color:#FFFFFF !important; }
+		#menu_4e74e4a7 .mobileEntry { display: none; } 
+		#menu_4e74e4a7 .normalEntry { display: block; } 
+		@media only screen and (max-width:650px) { 
+			#menu_4e74e4a7 .mobileEntry { display: block; } 
+			#menu_4e74e4a7 .normalEntry { display: none; } 
+		}
+#button_459ea715 { vertical-align: bottom; border-radius: 20px; position:relative; display: inline-block; width:150px; height:40px; background-color:#FFFFFF;  }
+#button_459ea715:hover { background-color:#DFDFDF;  }
+#button_459ea715:hover span { color:#000000; }
+body { background-color:#FFFF00; padding:0;  margin: 0; }
+.textstyle1 { text-align:center; }
+#container_5739606 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:1200px; background:none;  }
+.textstyle2 { text-align:left; }
+#container_8c94755 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:63px; background-color:#FFFF80;  }
+#container_8c94755_padding { margin: 10px; display: block;  }
+#container_19e90fa5 { vertical-align: top; position:relative; display: inline-block; width:35%; min-height:60px; background:none;  }
+#container_19e90fa5_padding { margin: 10px; display: block;  }
+#button_9ea0b09 { vertical-align: bottom; border-radius: 9px; position:relative; display: inline-block; margin:0px 0px 0px 20px;width:234px; height:40px; background:none;  }
+.vcenterstyle1 { display: table; width: 100%; height: 100%; }
+.vcenterstyle2 { display: table-cell; vertical-align: middle; }
+.textstyle3 { font-size:18pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#000000; font-weight:bold;  }
+#container_cc84cf0 { vertical-align: top; position:relative; display: inline-block; width:65%; min-height:60px; background:none;  }
+#container_cc84cf0_padding { margin: 10px; display: block;  }
+.textstyle4 { text-align:right; }
+#menu_4e74e4a7 { vertical-align: bottom; position:relative; display: inline-block; width:592px; height:38px; text-align:left; background:none;  }
+.menuholder1 { position: relative; overflow: hidden; width: 100%; height: 100%; }
+.menustyle1 { position:absolute; width:37px; height:38px; left:10px;  }
+.menuentry_text1 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:33px;  }
+.textstyle5 { font-size:22pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
+.menustyle2 { position:absolute; width:80px; height:38px; left:10px;  }
+.menuentry_text2 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:21px;  }
+.textstyle6 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#000000; font-weight:bold;  white-space: nowrap; }
+.textstyle7 { font-size:10pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#000000; font-weight:bold;  white-space: nowrap; }
+.menustyle3 { position:absolute; width:93px; height:38px; left:90px;  }
+.menustyle4 { position:absolute; width:116px; height:38px; left:183px;  }
+.menustyle5 { position:absolute; width:132px; height:38px; left:299px;  }
+.menustyle6 { position:absolute; width:93px; height:38px; left:431px;  }
+.textstyle8 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#656565; font-weight:bold;  white-space: nowrap; }
+#container_256d8120 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:406px; background-color:#FFFFFF; background-image: url(images/34888998376_88e404e3d9_b.jpg); background-position:center left; background-size:cover;  }
+#container_256d8120_padding { margin: 10px; display: block;  }
+.textstyle9 { font-size:18pt; font-family:Arial, Helvetica, sans-serif; color:#000000; text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.196078);  }
+.textstyle10 { font-size:26pt; font-family:'Arial Black', Gadget, sans-serif; color:#000000; text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.196078);  }
+#text_1929ab35 { position:absolute; left:24%; top:36%; width:802px; height:41px; background:none;  }
+#container_72092707 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:501px; background-color:#FAFF80;  }
+#container_72092707_padding { margin: 10px; display: block;  }
+#container_57da07d8 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:354px; background:none;  }
+#container_57da07d8_padding { margin: 10px; display: block;  }
+#text_e6afc30 { position:absolute; left:2%; top:52%; width:343px; height:154px; background:none;  }
+.textstyle11 { font-size:14pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#text_798038f2 { position:absolute; left:37%; top:54%; width:332px; height:138px; background:none;  }
+#text_6ebb91ba { position:absolute; left:68%; top:54%; width:356px; height:150px; background:none;  }
+.textstyle12 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#button_eebd794 { border-radius: 5px; position:absolute; left:77%; top:84%; width:150px; height:40px; background-color:#C0C0C0; box-shadow: 7px 7px 10px -5px rgba(0, 0, 0, 0.784314);  }
+#button_6e47b73d { border-radius: 5px; position:absolute; left:41%; top:84%; width:150px; height:40px; background-color:#C0C0C0; box-shadow: 7px 7px 10px -5px rgba(0, 0, 0, 0.784314);  }
+#button_4679c26e { border-radius: 5px; position:absolute; left:4%; top:84%; width:150px; height:40px; background-color:#C0C0C0; box-shadow: 7px 7px 10px -5px rgba(0, 0, 0, 0.784314);  }
+#img_290ae008 { position:absolute; left:2%; top:4%; width:27%; background:none; height:auto;  }
+#img_3897802b { position:absolute; left:36%; top:4%; width:31%; background:none; height:auto;  }
+#img_71c50d12 { position:absolute; left:70%; top:6%; width:29%; background:none; height:auto;  }
+#container_6b6ccfbc { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:865px; background-color:#FFFF80;  }
+#container_6b6ccfbc_padding { margin: 10px; display: block;  }
+.textstyle13 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#9E9E9E;  }
+#container_1a5c9f83 { vertical-align: top; position:relative; display: inline-block; width:50%; min-height:150px; background:none;  }
+#container_1a5c9f83_padding { margin: 10px; display: block;  }
+.textstyle14 { font-size:15pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#4F4F4F; font-weight:bold; line-height: 1.5;  }
+.textstyle15 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#4F4F4F; line-height: 1.5;  }
+#img_51f99368 { vertical-align: bottom; position:relative; display: inline-block; width:101%; background:none; height:auto;  }
+.textstyle16 { font-size:36pt; font-family:'Arial Black', Gadget, sans-serif; color:#9E9E9E;  }
+#container_46ccc96c { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background-color:#FFFF80;  }
+#container_46ccc96c_padding { margin: 10px; display: block;  }
+#container_45550c7 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:800px; background:none;  }
+#container_45550c7_padding { margin: 10px; display: block;  }
+.textstyle17 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#4F4F4F; font-weight:bold; line-height: 1.5;  }
+.textstyle18 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#2B2B2B; font-weight:bold;  }
+@media only screen and (max-width: 650px)
+{
+		#menu_4e74e4a7 { width:150px;  }
+}
+@media only screen and (max-width: 640px)
+{
+		#button_9ea0b09 * span { font-size:12pt;  }
+}
